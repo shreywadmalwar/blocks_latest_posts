@@ -33,9 +33,10 @@
 	"devDependencies": {
 		"@wordpress/eslint-plugin": "^9.3.0",
 		"@wordpress/prettier-config": "^1.1.1",
-		"@wordpress/scripts": "^19.2.2",
+		"@wordpress/scripts": "^26.9.0",
 		"@wordpress/stylelint-config": "^19.1.0",
 		"eslint-config-prettier": "^8.3.0",
+		"grunt": "^1.6.1",
 		"husky": "^7.0.4",
 		"lint-staged": "^12.1.3"
 	}
